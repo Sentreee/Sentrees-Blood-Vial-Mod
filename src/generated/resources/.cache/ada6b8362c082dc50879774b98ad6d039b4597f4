@@ -1,3 +1,4 @@
-// 1.20.1	2024-02-18T15:17:34.8169044	Global Loot Modifiers : sentreesmod
-377ba66bd22b6b8912fa315c5df323aa5acf1a78 data/forge/loot_modifiers/global_loot_modifiers.json
-fb869daa5bb6988cbed9d6ce505c20ca4eb32b4c data/sentreesmod/loot_modifiers/blood_vial_from_mobs.json
+// 1.20.1	2024-02-19T02:08:18.7033636	Global Loot Modifiers : sentreesmod
+ab00d59c192ebd558f0557e2081b610fb68708d5 data/forge/loot_modifiers/global_loot_modifiers.json
+46113f09d23f87375acec872ce5f8ac1c4e5b8bb data/sentreesmod/loot_modifiers/blood_vial_from_wolf.json
+be715d797c2b9d461c237ecac357e117ced6ec2a data/sentreesmod/loot_modifiers/blood_vial_from_zombie.json

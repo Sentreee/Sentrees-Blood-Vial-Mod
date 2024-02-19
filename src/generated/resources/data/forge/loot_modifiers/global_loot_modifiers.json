@@ -1,6 +1,7 @@
 {
   "entries": [
-    "sentreesmod:blood_vial_from_mobs"
+    "sentreesmod:blood_vial_from_wolf",
+    "sentreesmod:blood_vial_from_zombie"
   ],
   "replace": false
 }

@@ -1,1 +1,1 @@
-Minecraft mod that adds many different crops and foods into Forge!
+Minecraft mod that adds Blood Vials from Bloodborne into Forge!

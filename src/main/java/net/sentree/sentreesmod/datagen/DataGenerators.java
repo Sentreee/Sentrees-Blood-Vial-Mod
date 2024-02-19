@@ -1,6 +1,6 @@
 package net.sentree.sentreesmod.datagen;
 
-import net.sentree.sentreesmod.SentreesFoodsMod;
+import net.sentree.sentreesmod.SentreesBloodVialMod;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.DataGenerator;
 import net.minecraft.data.PackOutput;
@@ -11,7 +11,7 @@ import net.minecraftforge.fml.common.Mod;
 
 import java.util.concurrent.CompletableFuture;
 
-@Mod.EventBusSubscriber(modid = SentreesFoodsMod.MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD)
+@Mod.EventBusSubscriber(modid = SentreesBloodVialMod.MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD)
 public class DataGenerators {
     @SubscribeEvent
     public static void gatherData(GatherDataEvent event) {

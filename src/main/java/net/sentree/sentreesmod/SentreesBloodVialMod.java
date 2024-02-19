@@ -1,7 +1,6 @@
 package net.sentree.sentreesmod;
 
 import com.mojang.logging.LogUtils;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -18,15 +17,15 @@ import net.sentree.sentreesmod.loot.ModLootModifiers;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
-@Mod(SentreesFoodsMod.MOD_ID)
-public class SentreesFoodsMod
+@Mod(SentreesBloodVialMod.MOD_ID)
+public class SentreesBloodVialMod
 {
     // Define mod id in a common place for everything to reference
     public static final String MOD_ID = "sentreesmod";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
-    public SentreesFoodsMod()
+    public SentreesBloodVialMod()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
